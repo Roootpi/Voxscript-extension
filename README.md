@@ -4,6 +4,9 @@ Voxscript is a website and extension that helps you convert your speech to text.
 # Voxscript-extension
 This is open-sourced repository of voxscript extension version.
 
+# Original repository
+https://github.com/Rootpye/InstaScan
+
 # Web version
 - Website: https://voxscript.site/
 
